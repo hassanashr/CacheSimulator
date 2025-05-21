@@ -39,19 +39,3 @@ The simulator is built with the following components:
 - **MemoryGenerators**: Implements six different memory access patterns
 - **Experiments**: Controls the execution of simulations with different cache configurations
 
-## Installation and Usage
-
-### Prerequisites
-
-- Python 3.6+
-- NumPy
-- Matplotlib
-- tqdm
-
-### Installation
-
-```bash
-git clone https://github.com/yourusername/cache-simulator.git
-cd cache-simulator
-pip install -r requirements.txt
-
